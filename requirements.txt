@@ -1,7 +1,7 @@
 injector
 Flask==1.1.1
 requests==2.22.0
-Flask_Cors==3.0.8
+Flask_Cors==3.0.9
 Flask-Ext==0.1
 Flask-Injector==0.12.3
 flask-restplus==0.13.0
